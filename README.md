@@ -1,6 +1,6 @@
 # spring-boot-chat
 
-### Es un proyecto en donde se va a contruir un chat en tiempo real utilizando WebSocket y Spring Boot
+### Es un proyecto en donde se va a construir un chat en tiempo real utilizando WebSocket y Spring Boot
 
 ### Se utilizará la versión java 17 y con Spring Boot versión 3.2.1
 
